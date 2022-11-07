@@ -1,4 +1,3 @@
-# MIN-and-MAX
 #include<stdio.h>
 #include<conio.h>
 int main()
